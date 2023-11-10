@@ -2,5 +2,3 @@ arcgis
 pandas
 ipywidgets
 IPython
-io
-base64
