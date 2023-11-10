@@ -62,8 +62,6 @@ pymc3==3.11.4
 aiohttp==3.8.1
 cliff==3.8.0
 zipp==3.8.0
-h3==3.7.3
-tables==3.6.1
 filelock==3.6.0
 h5py==3.6.0
 widgetsnbextension==3.5.1
