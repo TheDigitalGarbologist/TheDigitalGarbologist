@@ -1,6 +1,5 @@
 arcgis
 pandas
-geopandas
 ipywidgets
 IPython
 io
